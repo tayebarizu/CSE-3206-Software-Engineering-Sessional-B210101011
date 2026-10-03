@@ -1,0 +1,6 @@
+{
+  "name": "Lagos Prime Real Estate",
+  "description": "Discover luxury modern houses, apartments, and plots. Sell, rent, lease, and book viewing appointments with real-time property management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
