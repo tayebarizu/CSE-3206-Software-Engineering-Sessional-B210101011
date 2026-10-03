@@ -1,0 +1,78 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-display: 'Montserrat', 'Syne', sans-serif;
+  --font-heavy: 'Montserrat', system-ui, sans-serif;
+  
+  --color-brand-brown: #744322;
+  --color-brand-brown-dark: #583116;
+  --color-brand-brown-light: #8E542D;
+  --color-brand-sand: #F7F3EE;
+  --color-brand-sand-dark: #ECE4D8;
+}
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    color: #1a1a1a;
+  }
+}
+
+.font-flyer-heavy {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  letter-spacing: -0.04em;
+  line-height: 0.9;
+}
+
+.font-flyer-sub {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
+
+/* Custom Earth-Tone Theme matching the reference flyer */
+:root {
+  --color-brand-brown: #744322;
+  --color-brand-brown-dark: #583116;
+  --color-brand-brown-light: #8E542D;
+  --color-brand-sand: #F7F3EE;
+  --color-brand-sand-dark: #ECE4D8;
+}
+
+.bg-brand-brown {
+  background-color: #744322;
+}
+
+.bg-brand-brown-dark {
+  background-color: #583116;
+}
+
+.bg-brand-brown-light {
+  background-color: #8E542D;
+}
+
+.bg-brand-sand {
+  background-color: #F7F3EE;
+}
+
+.text-brand-brown {
+  color: #744322;
+}
+
+.text-brand-brown-dark {
+  color: #583116;
+}
+
+.text-brand-brown-light {
+  color: #8E542D;
+}
+
+.border-brand-brown {
+  border-color: #744322;
+}
+
+.ring-brand-brown {
+  --tw-ring-color: #744322;
+}
