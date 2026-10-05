@@ -1,10 +1,14 @@
 <div align="center">
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/LIVE_PREVIEW-VISIT_WEBSITE-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](npx plugins add vercel/vercel-plugin)
+<div align="center">
 
-> 🌐 **Live Website Link:** [npx plugins add vercel/vercel-plugin](npx plugins add vercel/vercel-plugin)
+[![Live Demo](https://img.shields.io/badge/LIVE_PREVIEW-VISIT_WEBSITE-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://cse-3206-software-engineering-sessi-hazel.vercel.app)
+
 </div>
+
+> 🌐 **Live Website Link:** [https://cse-3206-software-engineering-sessi-hazel.vercel.app](https://cse-3206-software-engineering-sessi-hazel.vercel.app)  
+> *Click the green button above to explore the live web application.*
 
 > 🌐 **Live Application URL:** [https://ais-pre-cqv7rbsiahdoofy5pedhka-963075115032.asia-southeast1.run.app](https://ais-pre-cqv7rbsiahdoofy5pedhka-963075115032.asia-southeast1.run.app)  
 > *Click the button above to explore the live website directly without installing anything.*
