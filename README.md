@@ -1,4 +1,12 @@
 <div align="center">
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/LIVE_PREVIEW-VISIT_WEBSITE-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ais-pre-cqv7rbsiahdoofy5pedhka-963075115032.asia-southeast1.run.app)
+
+</div>
+
+> 🌐 **Live Application URL:** [https://ais-pre-cqv7rbsiahdoofy5pedhka-963075115032.asia-southeast1.run.app](https://ais-pre-cqv7rbsiahdoofy5pedhka-963075115032.asia-southeast1.run.app)  
+> *Click the button above to explore the live website directly without installing anything.*
 
 # 🏛️ Lagos Prime Real Estate
 ### Full Stack Web Application | Software Engineering Sessional (CSE-3206)
