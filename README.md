@@ -1,8 +1,9 @@
 <div align="center">
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/LIVE_PREVIEW-VISIT_WEBSITE-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ais-pre-cqv7rbsiahdoofy5pedhka-963075115032.asia-southeast1.run.app)
+[![Live Demo](https://img.shields.io/badge/LIVE_PREVIEW-VISIT_WEBSITE-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](npx plugins add vercel/vercel-plugin)
 
+> 🌐 **Live Website Link:** [npx plugins add vercel/vercel-plugin](npx plugins add vercel/vercel-plugin)
 </div>
 
 > 🌐 **Live Application URL:** [https://ais-pre-cqv7rbsiahdoofy5pedhka-963075115032.asia-southeast1.run.app](https://ais-pre-cqv7rbsiahdoofy5pedhka-963075115032.asia-southeast1.run.app)  
